@@ -1,0 +1,468 @@
+{
+   "success": true,
+   "updateAssets": true,
+   "launchTypeData": {
+      "artifacts": [
+         {
+            "name": "common-0.1.0-SNAPSHOT-all.jar",
+            "sha1": "d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8",
+            "url": "https://offline.lunarclientcdn.com/common-0.1.0-SNAPSHOT-all.jar/d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8",
+            "differentialUrl": "https://offline.lunarclientcdn.com/common-0.1.0-SNAPSHOT-all.jar/to-d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 51250670,
+            "mtime": 1717952033
+         },
+         {
+            "name": "genesis-0.1.0-SNAPSHOT-all.jar",
+            "sha1": "444937f4ede76553b24bff14153b5d9e35687eb2",
+            "url": "https://offline.lunarclientcdn.com/genesis-0.1.0-SNAPSHOT-all.jar/444937f4ede76553b24bff14153b5d9e35687eb2",
+            "differentialUrl": "https://offline.lunarclientcdn.com/genesis-0.1.0-SNAPSHOT-all.jar/to-444937f4ede76553b24bff14153b5d9e35687eb2-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 13600377,
+            "mtime": 1717952033
+         },
+         {
+            "name": "legacy-0.1.0-SNAPSHOT-all.jar",
+            "sha1": "d3b73c7eb7f6ae16b151b7a9772110e2529b8ab0",
+            "url": "https://offline.lunarclientcdn.com/legacy-0.1.0-SNAPSHOT-all.jar/d3b73c7eb7f6ae16b151b7a9772110e2529b8ab0",
+            "differentialUrl": "https://offline.lunarclientcdn.com/legacy-0.1.0-SNAPSHOT-all.jar/to-d3b73c7eb7f6ae16b151b7a9772110e2529b8ab0-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 1747690,
+            "mtime": 1717952033
+         },
+         {
+            "name": "lunar-lang.jar",
+            "sha1": "32a7e666acdc5ff9de8ce454b9390b6bd2bc9177",
+            "url": "https://offline.lunarclientcdn.com/lunar-lang.jar/32a7e666acdc5ff9de8ce454b9390b6bd2bc9177",
+            "differentialUrl": "https://offline.lunarclientcdn.com/lunar-lang.jar/to-32a7e666acdc5ff9de8ce454b9390b6bd2bc9177-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 748847,
+            "mtime": 1717952033
+         },
+         {
+            "name": "lunar-emote.jar",
+            "sha1": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+            "url": "https://offline.lunarclientcdn.com/lunar-emote.jar/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+            "differentialUrl": "https://offline.lunarclientcdn.com/lunar-emote.jar/to-b04f3ee8f5e43fa3b162981b50bb72fe1acabb33-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 22,
+            "mtime": 1717952033
+         },
+         {
+            "name": "lunar.jar",
+            "sha1": "7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a",
+            "url": "https://offline.lunarclientcdn.com/lunar.jar/7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a",
+            "differentialUrl": "https://offline.lunarclientcdn.com/lunar.jar/to-7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 42720634,
+            "mtime": 1717952033
+         },
+         {
+            "name": "optifine-0.1.0-SNAPSHOT-all.jar",
+            "sha1": "177b171707ce283dc4573d1d1e98d8461676024f",
+            "url": "https://offline.lunarclientcdn.com/optifine-0.1.0-SNAPSHOT-all.jar/177b171707ce283dc4573d1d1e98d8461676024f",
+            "differentialUrl": "https://offline.lunarclientcdn.com/optifine-0.1.0-SNAPSHOT-all.jar/to-177b171707ce283dc4573d1d1e98d8461676024f-from-PREVIOUS_HASH",
+            "type": "CLASS_PATH",
+            "size": 415730,
+            "mtime": 1717952033
+         },
+         {
+            "name": "OptiFine_v1_8.jar",
+            "sha1": "0bb792be16ec78d8b62586cc4856950befb3391b",
+            "url": "https://offline.lunarclientcdn.com/OptiFine_v1_8.jar/0bb792be16ec78d8b62586cc4856950befb3391b",
+            "differentialUrl": "https://offline.lunarclientcdn.com/OptiFine_v1_8.jar/to-0bb792be16ec78d8b62586cc4856950befb3391b-from-PREVIOUS_HASH",
+            "type": "EXTERNAL_FILE",
+            "size": 2584186,
+            "mtime": 1717952033
+         },
+         {
+            "name": "client-natives-macos-aarch64-v1_8.zip",
+            "sha1": "259f9755824922410326b1faa50232f18d6dec51",
+            "url": "https://offline.lunarclientcdn.com/client-natives-macos-aarch64-v1_8.zip/259f9755824922410326b1faa50232f18d6dec51",
+            "differentialUrl": "https://offline.lunarclientcdn.com/client-natives-macos-aarch64-v1_8.zip/to-259f9755824922410326b1faa50232f18d6dec51-from-PREVIOUS_HASH",
+            "type": "NATIVES",
+            "size": 740313,
+            "mtime": 1751044829
+         }
+      ],
+      "mainClass": "com.moonsworth.lunar.genesis.Genesis"
+   },
+   "licenses": [
+      {
+         "file": "McLib.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/McLib.txt",
+         "sha1": "b1b90c345ccbac66767a716a6ba5cb487e65146e",
+         "size": 1183,
+         "mtime": 1716927210
+      },
+      {
+         "file": "DiscordIPC.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/DiscordIPC.md",
+         "sha1": "d9b8ef53b1eb176c01023e08214b3a0ea9d45f4c",
+         "size": 11343,
+         "mtime": 1716927210
+      },
+      {
+         "file": "GeckoLib-Core.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/GeckoLib-Core.txt",
+         "sha1": "d782c83ed6dcd9aed6ec3fff9bfd277d4a54236d",
+         "size": 1069,
+         "mtime": 1716927210
+      },
+      {
+         "file": "ASM.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/ASM.txt",
+         "sha1": "f91b25bcf2b93ab95b2b9c60479f209e37213a39",
+         "size": 1566,
+         "mtime": 1716927210
+      },
+      {
+         "file": "DSM.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/DSM.txt",
+         "sha1": "a8a12e6867d7ee39c21d9b11a984066099b6fb6b",
+         "size": 7652,
+         "mtime": 1716927210
+      },
+      {
+         "file": "OptiFineVboFix.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/OptiFineVboFix.txt",
+         "sha1": "d64ae1e1c2035d908af2102461dae2d5b0b75dbc",
+         "size": 1067,
+         "mtime": 1716927210
+      },
+      {
+         "file": "geckolib.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/geckolib.txt",
+         "sha1": "3ee76fd958b8be4ac1e095dfba3454c5aee080af",
+         "size": 1070,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Paulscode-IBXM-Library-License.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Paulscode-IBXM-Library-License.txt",
+         "sha1": "d7ca9282ae4c639ccfc0d0027b0cd0e7a60310ab",
+         "size": 1508,
+         "mtime": 1716927210
+      },
+      {
+         "file": "LunatriusCore.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/LunatriusCore.txt",
+         "sha1": "7f46452216353e1011eba3805df3b4bbeb6324b3",
+         "size": 1097,
+         "mtime": 1716927210
+      },
+      {
+         "file": "junixsocket.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/junixsocket.txt",
+         "sha1": "58853eb8199b5afe72a73a25fd8cf8c94285174b",
+         "size": 11356,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Hermes.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Hermes.txt",
+         "sha1": "2ef92a669259bf7adce7c03d56f47ddc6937862e",
+         "size": 1062,
+         "mtime": 1716927210
+      },
+      {
+         "file": "procbridge.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/procbridge.txt",
+         "sha1": "f5d87c7532124bdaf5529ac706804118546257dc",
+         "size": 1067,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Mixin.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Mixin.md",
+         "sha1": "4234e139823d0f7f153fa7ffd27363d74db24d60",
+         "size": 1047,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Iris.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Iris.txt",
+         "sha1": "86f4df8deed9e8db7c73d03346d46d50f316cb48",
+         "size": 7653,
+         "mtime": 1716927210
+      },
+      {
+         "file": "jGui.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/jGui.txt",
+         "sha1": "4d1fd76d48096fec63c418c3c415a2ed5c2bb65d",
+         "size": 1046,
+         "mtime": 1716927210
+      },
+      {
+         "file": "jackson-databind.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/jackson-databind.txt",
+         "sha1": "1128f8f91104ba9ef98d37eea6523a888dcfa5de",
+         "size": 11357,
+         "mtime": 1716927210
+      },
+      {
+         "file": "SkyblockAddons.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/SkyblockAddons.txt",
+         "sha1": "1b3b8ae2f2756467f332e5084caa9e943b55eb9c",
+         "size": 1076,
+         "mtime": 1716927210
+      },
+      {
+         "file": "particleman.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/particleman.txt",
+         "sha1": "ed3ce97356c9da52fffea842f793830cf72f40cb",
+         "size": 1049,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Resource-Exploit-Fix.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Resource-Exploit-Fix.txt",
+         "sha1": "c05b08dc4b2c6a1d77ec605e7467c586c728e477",
+         "size": 1066,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Indium.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Indium.txt",
+         "sha1": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d",
+         "size": 11357,
+         "mtime": 1716927210
+      },
+      {
+         "file": "MinecraftForge-Authors-1.8.9.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/MinecraftForge-Authors-1.8.9.txt",
+         "sha1": "89ab79e25d2822c3de4389f11049ff2de8f402c6",
+         "size": 1039,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Lithium.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Lithium.txt",
+         "sha1": "86f4df8deed9e8db7c73d03346d46d50f316cb48",
+         "size": 7653,
+         "mtime": 1716927210
+      },
+      {
+         "file": "MinecraftForge-License-1.8.9.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/MinecraftForge-License-1.8.9.txt",
+         "sha1": "e88a2e9002638f3f97bd041ae9be1375f4980970",
+         "size": 2558,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Lombok.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Lombok.txt",
+         "sha1": "ece37b06a796a3a88c310f56132252f7d1d1920d",
+         "size": 5378,
+         "mtime": 1716927210
+      },
+      {
+         "file": "MinecraftForge-FML-License.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/MinecraftForge-FML-License.txt",
+         "sha1": "319d48ac8e94441088ba2db4347676c1a5158b0f",
+         "size": 26232,
+         "mtime": 1716927210
+      },
+      {
+         "file": "MinecraftForge-FML-Credits.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/MinecraftForge-FML-Credits.txt",
+         "sha1": "2d869c6a39b39a224d909d4d65c741cae66b9bea",
+         "size": 1225,
+         "mtime": 1716927210
+      },
+      {
+         "file": "fastutil.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/fastutil.txt",
+         "sha1": "1128f8f91104ba9ef98d37eea6523a888dcfa5de",
+         "size": 11357,
+         "mtime": 1716927210
+      },
+      {
+         "file": "3dSkinLayers.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/3dSkinLayers.md",
+         "sha1": "de633b67ae06996cdb330f52f42caec02ac8ef19",
+         "size": 1080,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Guava.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Guava.txt",
+         "sha1": "1128f8f91104ba9ef98d37eea6523a888dcfa5de",
+         "size": 11357,
+         "mtime": 1716927210
+      },
+      {
+         "file": "ReplayMod.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/ReplayMod.md",
+         "sha1": "6af828a8f6596cb1d67ccbb60768929ba9e0b2ab",
+         "size": 34913,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Phosphor.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Phosphor.txt",
+         "sha1": "86f4df8deed9e8db7c73d03346d46d50f316cb48",
+         "size": 7653,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Java-WebSocket.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Java-WebSocket.txt",
+         "sha1": "8a57dbfc93e6f41748e80c223227f4f002230699",
+         "size": 1082,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Noxesium.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Noxesium.txt",
+         "sha1": "a8a12e6867d7ee39c21d9b11a984066099b6fb6b",
+         "size": 7652,
+         "mtime": 1716927210
+      },
+      {
+         "file": "AppleSkin.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/AppleSkin.md",
+         "sha1": "24944bf7920108f5a4790e6071c32e9102760c37",
+         "size": 1210,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Sodium.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Sodium.txt",
+         "sha1": "86f4df8deed9e8db7c73d03346d46d50f316cb48",
+         "size": 7653,
+         "mtime": 1716927210
+      },
+      {
+         "file": "netty.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/netty.txt",
+         "sha1": "3a5ae056574d86708a443972e480bd7f2347547a",
+         "size": 11359,
+         "mtime": 1716927210
+      },
+      {
+         "file": "sentry-java.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/sentry-java.txt",
+         "sha1": "4e3df2f56a28f71192eca5de9052ae7033e05b54",
+         "size": 1119,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Schematica.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Schematica.txt",
+         "sha1": "7f46452216353e1011eba3805df3b4bbeb6324b3",
+         "size": 1097,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Gson.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Gson.txt",
+         "sha1": "1128f8f91104ba9ef98d37eea6523a888dcfa5de",
+         "size": 11357,
+         "mtime": 1716927210
+      },
+      {
+         "file": "KyoriPowered_Adventure.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/KyoriPowered_Adventure.md",
+         "sha1": "f0a02c302b08109a0090c255a52b84af23ac7471",
+         "size": 1075,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Fabric.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Fabric.txt",
+         "sha1": "669a1e53b9dd9df3474300d3d959bb85bad75945",
+         "size": 11358,
+         "mtime": 1716927210
+      },
+      {
+         "file": "jackson-core.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/jackson-core.txt",
+         "sha1": "1128f8f91104ba9ef98d37eea6523a888dcfa5de",
+         "size": 11357,
+         "mtime": 1716927210
+      },
+      {
+         "file": "MCP.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/MCP.txt",
+         "sha1": "e7cc6711dbde9943764be32e9cee9c93112eb586",
+         "size": 959,
+         "mtime": 1716927210
+      },
+      {
+         "file": "NEU.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/NEU.txt",
+         "sha1": "86f4df8deed9e8db7c73d03346d46d50f316cb48",
+         "size": 7653,
+         "mtime": 1716927210
+      },
+      {
+         "file": "MixinExtras.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/MixinExtras.txt",
+         "sha1": "670578b8e3fb6c77fdbaa463f3b5948dfd3a0df7",
+         "size": 26525,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Blur.md",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Blur.md",
+         "sha1": "183d102ab91562d3f6e1a0b7418c2ff163a1e4cd",
+         "size": 1064,
+         "mtime": 1716927210
+      },
+      {
+         "file": "toxiclibs.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/toxiclibs.txt",
+         "sha1": "0f9c1f3f6d75e78197a9113a345bbc172ccd1891",
+         "size": 26435,
+         "mtime": 1716927210
+      },
+      {
+         "file": "LWJGL.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/LWJGL.txt",
+         "sha1": "a1bac9efff3e02e710763d35965902f3783136fe",
+         "size": 1518,
+         "mtime": 1716927210
+      },
+      {
+         "file": "Paulscode-SoundSystem-CodecIBXM-License.txt",
+         "url": "https://launcherlicenses.lunarclientcdn.com/Paulscode-SoundSystem-CodecIBXM-License.txt",
+         "sha1": "fa62e286cf0c77ebc6ea25a54ebd22d23cc8f1a5",
+         "size": 2750,
+         "mtime": 1716927210
+      }
+   ],
+   "textures": {
+      "indexUrl": "https://textures.lunarclientcdn.com/index/b3525338c5d1bb9cc1a4ad0b7ea2920ad7ba0fee",
+      "indexSha1": "b3525338c5d1bb9cc1a4ad0b7ea2920ad7ba0fee",
+      "baseUrl": "https://textures.lunarclientcdn.com/file/"
+   },
+   "jre": {
+      "download": {
+         "url": "https://cdn.azul.com/zulu/bin/zulu17.34.19-ca-jre17.0.3-macosx_aarch64.tar.gz",
+         "fallbackUrl": "https://zulumirror.lunarclientcdn.com/zulu17.34.19-ca-jre17.0.3-macosx_aarch64.tar.gz",
+         "extension": "tar.gz"
+      },
+      "folderChecksum": "558a15eabb214bf8845d7f0993a02d9cc101324f",
+      "executablePathInArchive": [
+         "zulu17.34.19-ca-jre17.0.3-macosx_aarch64",
+         "zulu-17.jre",
+         "Contents",
+         "Home",
+         "bin",
+         "java"
+      ],
+      "extraArguments": [
+         "--add-modules",
+         "jdk.naming.dns",
+         "--add-exports",
+         "jdk.naming.dns/com.sun.jndi.dns=java.naming",
+         "-Djna.boot.library.path=natives",
+         "-Dlog4j2.formatMsgNoLookups=true",
+         "--add-opens",
+         "java.base/java.io=ALL-UNNAMED",
+         "-XX:+UseStringDeduplication",
+         "-Dichor.filteredGenesisSentries=.*lcqt.*|.*Some of your mods are incompatible with the game or each other.*"
+      ]
+   }
+}
