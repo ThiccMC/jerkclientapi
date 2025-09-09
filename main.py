@@ -115,7 +115,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             except json.JSONDecodeError:
                 self.send_error_response(400, "Bad Request: Invalid JSON.")
             except Exception as e:
-                self.send_error_response(500, f"An unexpected error occurred: {e}")
+                logging.error(f"An unexpected error occurred: {e}")
+                self.send_error_response(500, "An internal server error occurred.")
         else:
             self.send_error_response(404, f"File Not Found: {self.path}")
 
